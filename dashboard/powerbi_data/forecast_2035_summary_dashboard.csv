@@ -1,0 +1,4 @@
+indicator,indicator_label,model,year,forecast_value
+population_total,Population,"ARIMA(1,1,1)",2035,2197519.068212745
+net_migration,Net Migration,"ARIMA(1,1,1)",2035,-24271.48472809381
+total_first_residence_permits,First Residence Permits,Moving Average Baseline,2035,2219822.333333333

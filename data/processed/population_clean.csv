@@ -1,0 +1,51 @@
+country_name,country_code,indicator_name,indicator_code,indicator_short_name,year,value
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2000,-0.637356833943492
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2001,-0.93847042771206
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2002,-0.299876697084691
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2003,-0.374149169291299
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2004,-0.417931377925999
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2005,-0.511790116421897
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2006,-0.630911244851673
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2007,-0.75571875541991
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2008,-0.767342959142321
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2009,-0.673894046451936
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2010,-0.49646196338738
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2011,-0.269017331764615
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2012,-1.54313670532257
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2013,-1.54314471365633
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2014,-1.54313753739282
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2015,-1.54312006878448
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2016,-1.54313470861992
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2017,-1.54315156766944
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2018,-1.54309991591532
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2019,-1.54313709096794
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2020,-1.54315589345436
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2021,-1.54312080996395
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2022,-1.54315667695786
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2023,-1.54310811387613
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2024,-1.54314393524594
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2000,3089027.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2001,3060173.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2002,3051010.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2003,3039616.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2004,3026939.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2005,3011487.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2006,2992547.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2007,2970017.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2008,2947314.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2009,2927519.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2010,2913021.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2011,2905195.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2012,2860708.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2013,2816902.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2014,2773767.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2015,2731293.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2016,2689469.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2017,2648285.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2018,2607733.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2019,2567801.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2020,2528480.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2021,2489762.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2022,2451636.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2023,2414095.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2024,2377128.0

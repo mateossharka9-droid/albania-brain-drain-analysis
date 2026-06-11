@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large/generated files
+*.pbix
+*.sqlite
+*.db
+
+# Temporary outputs
+outputs/
+temp/

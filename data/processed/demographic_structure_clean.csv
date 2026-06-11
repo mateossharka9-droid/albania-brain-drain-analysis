@@ -1,0 +1,440 @@
+country_name,country_code,indicator_name,indicator_code,indicator_short_name,year,value
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2000,58.5977290277002
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2001,57.83517059934261
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2002,56.736702211002566
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2003,55.61399781396147
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2004,54.52112290675046
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2005,53.44354076883647
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2006,52.41323532183008
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2007,51.438839199897615
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2008,50.475962915481546
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2009,49.46272901089756
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2010,48.40341391619674
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2011,47.39391651725331
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2012,46.6305614201807
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2013,46.229489134153226
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2014,46.099079719702175
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2015,46.063682495576046
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2016,46.04186418791751
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2017,46.17477818101533
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2018,46.50893245403992
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2019,47.04237530779362
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2020,47.68647126853031
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2021,48.441601724710495
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2022,49.25104634350506
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2023,50.02392582373193
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2024,50.97429383464854
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2025,52.04106333987253
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2026,53.0442234071778
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2027,53.87987319519908
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2028,54.5204079021272
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2029,55.0029471790556
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2030,55.43506587519907
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2031,55.895508074724766
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2032,56.39924989960314
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2033,56.98704893411234
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2034,57.61789127937049
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,dependency_ratio_total,2035,58.19910492379965
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2000,226447.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2001,232750.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2002,241470.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2003,250494.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2004,259893.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2005,269801.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2006,280112.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2007,290307.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2008,300052.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2009,309245.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2010,318103.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2011,326201.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2012,329248.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2013,332962.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2014,337478.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2015,342589.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2016,347485.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2017,352365.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2018,358290.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2019,365863.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2020,373381.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2021,380087.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2022,386778.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2023,393546.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2024,402276.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2025,415053.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2026,427795.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2027,440078.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2028,451386.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2029,461627.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2030,470656.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2031,478892.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2032,486458.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2033,493550.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2034,500210.0
+Albania,ALB,"Population ages 65 and above, total",SP.POP.65UP.TO,elderly_population_65_plus,2035,506156.0
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2000,7.33069132123503
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2001,7.60579089173614
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2002,7.91442944240309
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2003,8.24096501461232
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2004,8.58600861824839
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2005,8.95907851317178
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2006,9.36032202611209
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2007,9.77459627170979
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2008,10.1805404435552
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2009,10.5633856320802
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2010,10.9200550479108
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2011,11.2281830971209
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2012,11.5093140765442
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2013,11.8201351814959
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2014,12.1667692065035
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2015,12.5431065412926
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2016,12.9202121629827
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2017,13.3053911120274
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2018,13.739521828078
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2019,14.2480986631067
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2020,14.7670044100644
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2021,15.2660050732804
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2022,15.7763381628571
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2023,16.3020000675759
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2024,16.922756199529
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2025,17.6221063807332
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2026,18.3266418880236
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2027,19.0145996759696
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2028,19.6732039279991
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2029,20.2941739704942
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2030,20.8759359029299
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2031,21.4248153239587
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2032,21.9522031244687
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2033,22.4743146997462
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2034,22.9904523452746
+Albania,ALB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,elderly_share_65_plus_percent,2035,23.477503131589
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2000,2.217
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2001,2.141
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2002,2.002
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2003,2.006
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2004,1.889
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2005,1.787
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2006,1.686
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2007,1.633
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2008,1.616
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2009,1.638
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2010,1.653
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2011,1.677
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2012,1.719
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2013,1.741
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2014,1.721
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2015,1.631
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2016,1.555
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2017,1.486
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2018,1.415
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2019,1.395
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2020,1.371
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2021,1.365
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2022,1.355
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2023,1.348
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2024,1.341
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2030,1.324
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,fertility_rate,2035,1.347
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2000,74.826
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2001,75.083
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2002,75.299
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2003,75.557
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2004,75.951
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2005,76.427
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2006,76.994
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2007,77.691
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2008,78.248
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2009,78.509
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2010,78.414
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2011,78.303
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2012,78.084
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2013,77.995
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2014,78.029
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2015,78.358
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2016,78.643
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2017,78.9
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2018,79.238
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2019,79.467
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2020,77.824
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2021,76.844
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2022,78.769
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2023,79.602
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2024,79.776
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2030,80.839
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,life_expectancy_total,2035,81.709
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2000,11.62630820162324
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2001,12.004594497434292
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2002,12.404813974025254
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2003,12.824110929936698
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2004,13.267184504082872
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2005,13.747107156723573
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2006,14.266367803903654
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2007,14.802526413688769
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2008,15.319241052943822
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2009,15.7883182425033
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2010,16.205709185407155
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2011,16.549672711185252
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2012,16.876178584627183
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2013,17.284542792431516
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2014,17.775546837800597
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2015,18.32092379780452
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2016,18.868913223144983
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2017,19.449143771819674
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2018,20.129624240272285
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2019,20.95075302067228
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2020,21.808873520787824
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2021,22.661090929470383
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2022,23.546335895289552
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2023,24.45691487378351
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2024,25.549038598942538
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2025,26.792841608682096
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2026,28.047845804542646
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2027,29.25964931876993
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2028,30.39910672074113
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2029,31.456587882153723
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2030,32.44851668769434
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2031,33.40031176004938
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2032,34.333114307028765
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2033,35.28177164462167
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2034,36.23707060799112
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,old_age_dependency_ratio,2035,37.141186199771205
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2000,-0.637356833943492
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2001,-0.93847042771206
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2002,-0.299876697084691
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2003,-0.374149169291299
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2004,-0.417931377925999
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2005,-0.511790116421897
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2006,-0.630911244851673
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2007,-0.75571875541991
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2008,-0.767342959142321
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2009,-0.673894046451936
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2010,-0.49646196338738
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2011,-0.269017331764615
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2012,-1.54313670532257
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2013,-1.54314471365633
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2014,-1.54313753739282
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2015,-1.54312006878448
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2016,-1.54313470861992
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2017,-1.54315156766944
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2018,-1.54309991591532
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2019,-1.54313709096794
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2020,-1.54315589345436
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2021,-1.54312080996395
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2022,-1.54315667695786
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2023,-1.54310811387613
+Albania,ALB,Population growth (annual %),SP.POP.GROW,population_growth_annual_percent,2024,-1.54314393524594
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2000,3089027.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2001,3060173.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2002,3051010.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2003,3039616.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2004,3026939.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2005,3011487.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2006,2992547.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2007,2970017.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2008,2947314.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2009,2927519.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2010,2913021.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2011,2905195.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2012,2860708.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2013,2816902.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2014,2773767.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2015,2731293.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2016,2689469.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2017,2648285.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2018,2607733.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2019,2567801.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2020,2528480.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2021,2489762.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2022,2451636.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2023,2414095.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2024,2377128.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2025,2355297.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2026,2334281.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2027,2314421.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2028,2294421.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2029,2274676.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2030,2254539.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2031,2235222.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2032,2215985.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2033,2196062.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2034,2175729.0
+Albania,ALB,"Population, total",SP.POP.TOTL,population_total,2035,2155920.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2000,1947712.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2001,1938841.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2002,1946583.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2003,1953305.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2004,1958916.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2005,1962602.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2006,1963443.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2007,1961199.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2008,1958661.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2009,1958695.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2010,1962907.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2011,1971042.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2012,1950963.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2013,1926357.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2014,1898552.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2015,1869933.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2016,1841574.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2017,1811725.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2018,1779914.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2019,1746300.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2020,1712060.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2021,1677267.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2022,1642625.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2023,1609140.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2024,1574525.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2025,1549119.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2026,1525233.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2027,1504044.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2028,1484866.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2029,1467505.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2030,1450470.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2031,1433795.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2032,1416877.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2033,1398881.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2034,1380382.0
+Albania,ALB,"Population ages 15-64, total",SP.POP.1564.TO,working_age_population_15_64,2035,1362789.0
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2000,63.0526057298341
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2001,63.3572203567186
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2002,63.8012540793314
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2003,64.2615866296247
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2004,64.7160584866188
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2005,65.170542224898
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2006,65.6110994839565
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2007,66.033265550449
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2008,66.4557863939707
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2009,66.9063216544298
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2010,67.3838908889083
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2011,67.8454159774467
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2012,68.198600414295
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2013,68.3856722403311
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2014,68.4466928018412
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2015,68.4632957891861
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2016,68.473513186339
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2017,68.411252681582
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2018,68.2552118334715
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2019,68.0076096803147
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2020,67.7110196944345
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2021,67.3665631972931
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2022,67.0011896981477
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2023,66.6560264328305
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2024,66.2364608476109
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2025,65.7716964503975
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2026,65.3405912341764
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2027,64.9857664601049
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2028,64.7163795025225
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2029,64.5149235087868
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2030,64.3355533640108
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2031,64.1455182534159
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2032,63.9389444294694
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2033,63.6995063453071
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2034,63.4445727790155
+Albania,ALB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,working_age_share_15_64_percent,2035,63.2114931260649
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2000,46.97142082607695
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2001,45.83057610190831
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2002,44.331888236977306
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2003,42.78988688402477
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2004,41.2539384026676
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2005,39.6964336121129
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2006,38.14686751792642
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2007,36.63631278620885
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2008,35.15672186253772
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2009,33.67441076839427
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2010,32.19770473078959
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2011,30.84424380606806
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2012,29.75438283555352
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2013,28.944946341721707
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2014,28.32353288190157
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2015,27.742758697771524
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2016,27.172950964772525
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2017,26.72563440919566
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2018,26.379308213767636
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2019,26.09162228712134
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2020,25.877597747742488
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2021,25.780510795240115
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2022,25.704710448215508
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2023,25.567010949948425
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2024,25.425255235706008
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2025,25.24822173119044
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2026,24.99637760263514
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2027,24.620223876429147
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2028,24.121301181386062
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2029,23.546359296901883
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2030,22.98654918750474
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2031,22.49519631467539
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2032,22.066135592574373
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2033,21.70527728949067
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2034,21.38082067137937
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,youth_dependency_ratio,2035,21.057918724028443
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2000,914868.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2001,888582.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2002,862957.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2003,835817.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2004,808130.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2005,779083.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2006,748992.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2007,718511.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2008,688601.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2009,659579.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2010,632011.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2011,607953.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2012,580497.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2013,557583.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2014,537737.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2015,518771.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2016,500410.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2017,484195.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2018,469529.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2019,455638.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2020,443040.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2021,432408.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2022,422232.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2023,411409.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2024,400327.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2025,391125.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2026,381253.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2027,370299.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2028,358169.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2029,345544.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2030,333413.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2031,322535.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2032,312650.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2033,303631.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2034,295137.0
+Albania,ALB,"Population ages 0-14, total",SP.POP.0014.TO,youth_population_0_14,2035,286975.0
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2000,29.6167029489308
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2001,29.0369887515453
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2002,28.2843164782655
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2003,27.4974483557629
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2004,26.6979328951328
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2005,25.8703792619302
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2006,25.0285784899314
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2007,24.1921381778413
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2008,23.363673162474
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2009,22.53029271349
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2010,21.6960540631808
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2011,20.9264009254324
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2012,20.2920855091608
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2013,19.794192578173
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2014,19.3865379916553
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2015,18.9935976695213
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2016,18.6062746506784
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2017,18.2833562063906
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2018,18.0052663384505
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2019,17.7442916565786
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2020,17.5219758955011
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2021,17.3674317294264
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2022,17.2224721389952
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2023,17.0419734995937
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2024,16.8407829528601
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2025,16.6061971688693
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2026,16.3327668778001
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2027,15.9996338639255
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2028,15.6104165694784
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2029,15.190902520719
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2030,14.7885107330592
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2031,14.4296664226254
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2032,14.1088524460619
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2033,13.8261789549467
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2034,13.5649748757099
+Albania,ALB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,youth_share_0_14_percent,2035,13.3110037423461

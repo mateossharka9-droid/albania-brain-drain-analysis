@@ -1,0 +1,94 @@
+indicator,indicator_label,model,year,forecast_value
+population_total,Population,Moving Average Baseline,2025,2414286.3333333335
+population_total,Population,Moving Average Baseline,2026,2414286.3333333335
+population_total,Population,Moving Average Baseline,2027,2414286.3333333335
+population_total,Population,Moving Average Baseline,2028,2414286.3333333335
+population_total,Population,Moving Average Baseline,2029,2414286.3333333335
+population_total,Population,Moving Average Baseline,2030,2414286.3333333335
+population_total,Population,Moving Average Baseline,2031,2414286.3333333335
+population_total,Population,Moving Average Baseline,2032,2414286.3333333335
+population_total,Population,Moving Average Baseline,2033,2414286.3333333335
+population_total,Population,Moving Average Baseline,2034,2414286.3333333335
+population_total,Population,Moving Average Baseline,2035,2414286.3333333335
+population_total,Population,Linear Regression,2025,2399737.469999999
+population_total,Population,Linear Regression,2026,2369283.6630769223
+population_total,Population,Linear Regression,2027,2338829.856153846
+population_total,Population,Linear Regression,2028,2308376.0492307693
+population_total,Population,Linear Regression,2029,2277922.2423076928
+population_total,Population,Linear Regression,2030,2247468.4353846163
+population_total,Population,Linear Regression,2031,2217014.6284615397
+population_total,Population,Linear Regression,2032,2186560.8215384632
+population_total,Population,Linear Regression,2033,2156107.0146153867
+population_total,Population,Linear Regression,2034,2125653.20769231
+population_total,Population,Linear Regression,2035,2095199.4007692337
+population_total,Population,"ARIMA(1,1,1)",2025,2358990.2955911267
+population_total,Population,"ARIMA(1,1,1)",2026,2341238.079646844
+population_total,Population,"ARIMA(1,1,1)",2027,2323863.15921434
+population_total,Population,"ARIMA(1,1,1)",2028,2306857.515469168
+population_total,Population,"ARIMA(1,1,1)",2029,2290213.300014419
+population_total,Population,"ARIMA(1,1,1)",2030,2273922.8312585535
+population_total,Population,"ARIMA(1,1,1)",2031,2257978.5908702146
+population_total,Population,"ARIMA(1,1,1)",2032,2242373.2203083877
+population_total,Population,"ARIMA(1,1,1)",2033,2227099.5174263087
+population_total,Population,"ARIMA(1,1,1)",2034,2212150.433147549
+population_total,Population,"ARIMA(1,1,1)",2035,2197519.0682127452
+net_migration,Net Migration,Moving Average Baseline,2026,-24686.333333333332
+net_migration,Net Migration,Moving Average Baseline,2027,-24686.333333333332
+net_migration,Net Migration,Moving Average Baseline,2028,-24686.333333333332
+net_migration,Net Migration,Moving Average Baseline,2029,-24686.333333333332
+net_migration,Net Migration,Moving Average Baseline,2030,-24686.333333333332
+net_migration,Net Migration,Moving Average Baseline,2031,-24686.333333333332
+net_migration,Net Migration,Moving Average Baseline,2032,-24686.333333333332
+net_migration,Net Migration,Moving Average Baseline,2033,-24686.333333333332
+net_migration,Net Migration,Moving Average Baseline,2034,-24686.333333333332
+net_migration,Net Migration,Moving Average Baseline,2035,-24686.333333333332
+net_migration,Net Migration,Linear Regression,2026,-11200.526153846178
+net_migration,Net Migration,Linear Regression,2027,-9590.231794871856
+net_migration,Net Migration,Linear Regression,2028,-7979.937435897533
+net_migration,Net Migration,Linear Regression,2029,-6369.6430769227445
+net_migration,Net Migration,Linear Regression,2030,-4759.348717948422
+net_migration,Net Migration,Linear Regression,2031,-3149.054358974099
+net_migration,Net Migration,Linear Regression,2032,-1538.7599999997765
+net_migration,Net Migration,Linear Regression,2033,71.5343589745462
+net_migration,Net Migration,Linear Regression,2034,1681.8287179488689
+net_migration,Net Migration,Linear Regression,2035,3292.1230769231915
+net_migration,Net Migration,"ARIMA(1,1,1)",2026,-24274.03847926052
+net_migration,Net Migration,"ARIMA(1,1,1)",2027,-24271.327522169617
+net_migration,Net Migration,"ARIMA(1,1,1)",2028,-24271.49440550601
+net_migration,Net Migration,"ARIMA(1,1,1)",2029,-24271.484132363712
+net_migration,Net Migration,"ARIMA(1,1,1)",2030,-24271.484764766294
+net_migration,Net Migration,"ARIMA(1,1,1)",2031,-24271.484725836333
+net_migration,Net Migration,"ARIMA(1,1,1)",2032,-24271.484728232816
+net_migration,Net Migration,"ARIMA(1,1,1)",2033,-24271.484728085292
+net_migration,Net Migration,"ARIMA(1,1,1)",2034,-24271.484728094372
+net_migration,Net Migration,"ARIMA(1,1,1)",2035,-24271.484728093812
+total_first_residence_permits,First Residence Permits,Moving Average Baseline,2026,2219822.3333333335
+total_first_residence_permits,First Residence Permits,Moving Average Baseline,2027,2219822.3333333335
+total_first_residence_permits,First Residence Permits,Moving Average Baseline,2028,2219822.3333333335
+total_first_residence_permits,First Residence Permits,Moving Average Baseline,2029,2219822.3333333335
+total_first_residence_permits,First Residence Permits,Moving Average Baseline,2030,2219822.3333333335
+total_first_residence_permits,First Residence Permits,Moving Average Baseline,2031,2219822.3333333335
+total_first_residence_permits,First Residence Permits,Moving Average Baseline,2032,2219822.3333333335
+total_first_residence_permits,First Residence Permits,Moving Average Baseline,2033,2219822.3333333335
+total_first_residence_permits,First Residence Permits,Moving Average Baseline,2034,2219822.3333333335
+total_first_residence_permits,First Residence Permits,Moving Average Baseline,2035,2219822.3333333335
+total_first_residence_permits,First Residence Permits,Linear Regression,2026,2616563.601307191
+total_first_residence_permits,First Residence Permits,Linear Regression,2027,2628390.758169934
+total_first_residence_permits,First Residence Permits,Linear Regression,2028,2640217.915032681
+total_first_residence_permits,First Residence Permits,Linear Regression,2029,2652045.0718954243
+total_first_residence_permits,First Residence Permits,Linear Regression,2030,2663872.228758171
+total_first_residence_permits,First Residence Permits,Linear Regression,2031,2675699.3856209144
+total_first_residence_permits,First Residence Permits,Linear Regression,2032,2687526.5424836613
+total_first_residence_permits,First Residence Permits,Linear Regression,2033,2699353.6993464045
+total_first_residence_permits,First Residence Permits,Linear Regression,2034,2711180.8562091514
+total_first_residence_permits,First Residence Permits,Linear Regression,2035,2723008.0130718946
+total_first_residence_permits,First Residence Permits,"ARIMA(1,1,1)",2026,245315.15797217656
+total_first_residence_permits,First Residence Permits,"ARIMA(1,1,1)",2027,393081.0850514226
+total_first_residence_permits,First Residence Permits,"ARIMA(1,1,1)",2028,521210.26001999533
+total_first_residence_permits,First Residence Permits,"ARIMA(1,1,1)",2029,632312.2292129523
+total_first_residence_permits,First Residence Permits,"ARIMA(1,1,1)",2030,728649.753914726
+total_first_residence_permits,First Residence Permits,"ARIMA(1,1,1)",2031,812184.8949485107
+total_first_residence_permits,First Residence Permits,"ARIMA(1,1,1)",2032,884618.9730415076
+total_first_residence_permits,First Residence Permits,"ARIMA(1,1,1)",2033,947427.2188198972
+total_first_residence_permits,First Residence Permits,"ARIMA(1,1,1)",2034,1001888.8181336044
+total_first_residence_permits,First Residence Permits,"ARIMA(1,1,1)",2035,1049112.9646297852

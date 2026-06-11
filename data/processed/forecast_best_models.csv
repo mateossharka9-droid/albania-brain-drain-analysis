@@ -1,0 +1,4 @@
+indicator,indicator_label,model,mae,rmse,r2,train_start_year,train_end_year,test_start_year,test_end_year,observations
+net_migration,Net Migration,"ARIMA(1,1,1)",5754.061173367854,7375.204624920002,-1.006435700373597,2000,2020,2021,2025,26
+population_total,Population,"ARIMA(1,1,1)",58638.199767832084,64664.38319318194,-0.4602540001173461,2000,2019,2020,2024,25
+total_first_residence_permits,First Residence Permits,Moving Average Baseline,1231701.1111111112,1633742.7158801146,-0.15276381219181556,2008,2022,2023,2025,18

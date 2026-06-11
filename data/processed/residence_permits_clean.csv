@@ -1,0 +1,2303 @@
+reason_code,reason,citizenship_code,citizenship_country,duration_code,duration,reporting_country_code,reporting_country,year,value,is_aggregate_reporting_geo,is_total_reason
+EDUC,Education reasons,AL,Albania,TOTAL,Total,AT,Austria,2008,39,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,AT,Austria,2009,48,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,AT,Austria,2010,48,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,AT,Austria,2011,69,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,AT,Austria,2012,86,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,AT,Austria,2013,88,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,AT,Austria,2014,95,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,AT,Austria,2015,135,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,AT,Austria,2016,123,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,AT,Austria,2017,131,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,AT,Austria,2018,132,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,AT,Austria,2019,157,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,AT,Austria,2020,99,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,AT,Austria,2021,141,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,AT,Austria,2022,161,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,AT,Austria,2023,131,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,AT,Austria,2024,127,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,BE,Belgium,2008,18,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,BE,Belgium,2009,28,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,BE,Belgium,2010,18,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,BE,Belgium,2011,21,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,BE,Belgium,2012,32,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,BE,Belgium,2013,33,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,BE,Belgium,2014,40,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,BE,Belgium,2015,33,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,BE,Belgium,2016,39,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,BE,Belgium,2017,54,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,BE,Belgium,2018,51,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,BE,Belgium,2019,77,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,BE,Belgium,2020,43,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,BE,Belgium,2021,65,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,BE,Belgium,2022,46,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,BE,Belgium,2023,46,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,BE,Belgium,2024,42,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,BE,Belgium,2025,36,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2012,31,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2013,32,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2014,31,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2015,44,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2016,56,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2017,51,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2018,53,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2019,46,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2020,50,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2021,46,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2022,53,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2023,53,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2024,56,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2008,14,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2009,14,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2010,22,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2011,17,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2012,12,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2013,19,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2014,22,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2015,52,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2016,55,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2017,48,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2018,46,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2019,47,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2020,30,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2021,39,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2022,15,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2023,16,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2024,23,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,DE,Germany,2008,125,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,DE,Germany,2009,158,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,DE,Germany,2010,96,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,DE,Germany,2011,80,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,DE,Germany,2012,195,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,DE,Germany,2013,267,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,DE,Germany,2014,323,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,DE,Germany,2015,129,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,DE,Germany,2016,407,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,DE,Germany,2017,535,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,DE,Germany,2018,781,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,DE,Germany,2019,759,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,DE,Germany,2020,668,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,DE,Germany,2021,872,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,DE,Germany,2022,874,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,DE,Germany,2023,832,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,DE,Germany,2024,597,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EL,Greece,2008,90,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EL,Greece,2009,65,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EL,Greece,2010,25,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EL,Greece,2011,27,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EL,Greece,2012,17,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EL,Greece,2013,25,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EL,Greece,2014,32,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EL,Greece,2015,34,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EL,Greece,2016,35,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EL,Greece,2017,50,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EL,Greece,2018,56,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EL,Greece,2019,61,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EL,Greece,2020,35,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EL,Greece,2021,47,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EL,Greece,2022,82,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EL,Greece,2023,50,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EL,Greece,2024,31,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,ES,Spain,2008,22,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,ES,Spain,2009,25,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,ES,Spain,2010,20,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,ES,Spain,2011,35,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,ES,Spain,2012,25,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,ES,Spain,2013,29,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,ES,Spain,2014,34,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,ES,Spain,2015,45,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,ES,Spain,2016,76,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,ES,Spain,2017,66,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,ES,Spain,2018,61,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,ES,Spain,2019,70,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,ES,Spain,2020,73,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,ES,Spain,2021,76,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,ES,Spain,2022,111,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,ES,Spain,2023,128,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,ES,Spain,2024,174,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2013,1378,True,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2014,1469,True,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2015,1334,True,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2016,1634,True,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2017,1875,True,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2018,2348,True,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2019,2316,True,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2020,1682,True,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2021,2462,True,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2022,2625,True,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2023,2540,True,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2024,2096,True,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2013,1558,True,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2014,1631,True,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2015,1519,True,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2016,1785,True,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2017,2027,True,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2018,2504,True,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,FR,France,2008,86,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,FR,France,2009,97,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,FR,France,2010,121,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,FR,France,2011,110,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,FR,France,2012,128,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,FR,France,2013,147,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,FR,France,2014,162,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,FR,France,2015,149,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,FR,France,2016,179,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,FR,France,2017,240,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,FR,France,2018,215,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,FR,France,2019,205,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,FR,France,2020,190,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,FR,France,2021,211,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,FR,France,2022,186,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,FR,France,2023,215,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,FR,France,2024,168,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,HR,Croatia,2013,1,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,HR,Croatia,2014,4,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,HR,Croatia,2015,4,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,HR,Croatia,2016,3,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,HR,Croatia,2017,6,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,HR,Croatia,2018,9,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,HR,Croatia,2019,3,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,HR,Croatia,2020,1,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,HR,Croatia,2021,6,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,HR,Croatia,2022,9,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,HR,Croatia,2023,3,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,HR,Croatia,2024,2,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,IT,Italy,2008,1729,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,IT,Italy,2009,1692,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,IT,Italy,2010,1029,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,IT,Italy,2011,702,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,IT,Italy,2012,564,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,IT,Italy,2013,466,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,IT,Italy,2014,412,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,IT,Italy,2015,402,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,IT,Italy,2016,321,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,IT,Italy,2017,337,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,IT,Italy,2018,526,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,IT,Italy,2019,519,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,IT,Italy,2020,184,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,IT,Italy,2021,641,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,IT,Italy,2022,760,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,IT,Italy,2023,793,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,IT,Italy,2024,623,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2013,0,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2014,0,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2015,0,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2016,0,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2017,3,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2018,2,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2019,0,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2020,0,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2021,0,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2022,0,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2023,0,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2024,0,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2008,25,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2009,42,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2010,36,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2011,39,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2012,53,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2013,52,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2014,81,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2015,73,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2016,106,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2017,96,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2018,83,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2019,97,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2020,87,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2021,82,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2022,99,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2023,74,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2024,74,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PL,Poland,2008,73,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PL,Poland,2009,67,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PL,Poland,2010,60,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PL,Poland,2011,14,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PL,Poland,2012,26,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PL,Poland,2013,54,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PL,Poland,2014,42,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PL,Poland,2015,43,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PL,Poland,2016,38,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PL,Poland,2017,68,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PL,Poland,2018,73,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PL,Poland,2019,44,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PL,Poland,2020,17,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PL,Poland,2021,51,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PL,Poland,2022,35,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PL,Poland,2023,37,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PL,Poland,2024,34,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PT,Portugal,2008,1,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PT,Portugal,2009,0,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PT,Portugal,2010,1,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PT,Portugal,2011,2,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PT,Portugal,2012,0,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PT,Portugal,2013,1,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PT,Portugal,2014,2,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PT,Portugal,2015,1,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PT,Portugal,2016,5,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PT,Portugal,2017,0,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PT,Portugal,2018,4,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PT,Portugal,2019,2,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PT,Portugal,2020,2,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PT,Portugal,2021,0,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PT,Portugal,2022,3,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PT,Portugal,2023,6,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,PT,Portugal,2024,3,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,RO,Romania,2008,41,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,RO,Romania,2009,47,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,RO,Romania,2010,32,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,RO,Romania,2011,37,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,RO,Romania,2012,57,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,RO,Romania,2013,73,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,RO,Romania,2014,75,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,RO,Romania,2015,87,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,RO,Romania,2016,69,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,RO,Romania,2017,48,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,RO,Romania,2018,78,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,RO,Romania,2019,64,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,RO,Romania,2020,104,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,RO,Romania,2021,69,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,RO,Romania,2022,47,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,RO,Romania,2023,64,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,RO,Romania,2024,44,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,SE,Sweden,2008,34,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,SE,Sweden,2009,24,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,SE,Sweden,2010,28,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,SE,Sweden,2011,12,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,SE,Sweden,2012,13,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,SE,Sweden,2013,13,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,SE,Sweden,2014,16,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,SE,Sweden,2015,25,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,SE,Sweden,2016,18,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,SE,Sweden,2017,34,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,SE,Sweden,2018,36,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,SE,Sweden,2019,31,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,SE,Sweden,2020,28,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,SE,Sweden,2021,32,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,SE,Sweden,2022,40,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,SE,Sweden,2023,22,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,SE,Sweden,2024,30,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2008,245,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2009,304,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2010,330,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2011,263,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2012,220,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2013,180,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2014,162,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2015,185,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2016,151,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2017,152,False,False
+EDUC,Education reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2018,156,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2008,2853,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2009,3233,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2010,3735,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2011,5031,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2012,6298,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2013,5538,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2014,6350,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2015,7063,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2016,5770,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2017,4591,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2018,4422,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2019,4078,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2020,2718,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2021,4703,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2022,4743,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2023,6275,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2024,6817,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2008,6743,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2009,7222,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2010,5899,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2011,5834,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2012,5813,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2013,5902,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2014,6286,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2015,6345,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2016,6303,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2017,6896,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2018,6908,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2019,8661,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2020,5675,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2021,9200,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2022,9297,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2023,9523,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2024,10465,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2025,11066,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2012,10239,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2013,11153,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2014,8767,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2015,10080,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2016,10222,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2017,10625,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2018,10670,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2019,11043,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2020,9470,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2021,11785,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2022,13037,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2023,13279,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2024,13023,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2008,4220,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2009,4142,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2010,5153,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2011,4988,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2012,6381,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2013,6215,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2014,6030,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2015,13658,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2016,17099,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2017,11076,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2018,12132,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2019,14446,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2020,7550,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2021,12777,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2022,10128,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2023,9764,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2024,9596,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2008,29985,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2009,31345,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2010,30035,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2011,27568,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2012,40479,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2013,45955,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2014,49406,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2015,16683,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2016,46083,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2017,48637,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2018,65232,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2019,68239,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2020,48719,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2021,67311,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2022,83224,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2023,86943,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2024,75005,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2008,1449,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2009,1489,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2010,1323,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2011,1297,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2012,842,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2013,1074,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2014,835,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2015,871,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2016,902,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2017,850,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2018,813,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2019,961,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2020,687,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2021,681,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2022,893,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2023,676,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2024,796,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2008,21665,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2009,22068,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2010,24864,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2011,35037,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2012,27114,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2013,26416,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2014,29668,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2015,33096,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2016,35636,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2017,39664,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2018,41983,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2019,45032,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2020,28550,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2021,51090,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2022,58418,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2023,90922,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2024,117056,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2013,280956,True,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2014,299865,True,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2015,296956,True,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2016,328654,True,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2017,354685,True,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2018,397717,True,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2019,408104,True,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2020,283675,True,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2021,397933,True,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2022,470057,True,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2023,544840,True,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2024,549458,True,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2013,464153,True,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2014,477099,True,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2015,526053,True,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2016,499597,True,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2017,534318,True,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2018,588063,True,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,FR,France,2008,52226,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,FR,France,2009,58738,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,FR,France,2010,65538,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,FR,France,2011,65145,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,FR,France,2012,59045,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,FR,France,2013,62988,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,FR,France,2014,65201,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,FR,France,2015,70250,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,FR,France,2016,73865,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,FR,France,2017,80566,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,FR,France,2018,83975,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,FR,France,2019,90668,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,FR,France,2020,73819,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,FR,France,2021,91100,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,FR,France,2022,105717,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,FR,France,2023,112399,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,FR,France,2024,112594,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2013,185,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2014,418,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2015,387,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2016,526,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2017,591,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2018,495,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2019,332,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2020,225,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2021,244,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2022,328,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2023,377,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2024,438,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2008,28609,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2009,32634,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2010,25676,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2011,30260,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2012,30631,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2013,27083,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2014,24373,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2015,22870,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2016,16847,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2017,17963,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2018,21795,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2019,20020,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2020,8428,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2021,17807,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2022,25466,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2023,27951,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2024,20679,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2013,26,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2014,35,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2015,43,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2016,50,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2017,45,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2018,43,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2019,46,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2020,34,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2021,28,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2022,22,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2023,26,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2024,38,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2008,8850,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2009,9944,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2010,10510,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2011,10701,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2012,10747,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2013,12878,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2014,12746,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2015,15263,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2016,16317,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2017,17239,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2018,18472,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2019,20178,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2020,11644,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2021,19589,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2022,21871,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2023,22922,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2024,21877,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2008,6145,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2009,7066,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2010,9098,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2011,6995,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2012,9614,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2013,23007,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2014,29825,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2015,39308,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2016,32676,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2017,34709,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2018,42204,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2019,20760,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2020,27244,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2021,45596,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2022,33342,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2023,30926,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2024,24390,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2008,4344,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2009,4302,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2010,5414,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2011,6478,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2012,8410,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2013,4734,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2014,3407,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2015,3139,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2016,3459,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2017,4883,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2018,8369,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2019,13356,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2020,12285,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2021,10919,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2022,9712,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2023,23878,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2024,16664,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2008,2969,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2009,3541,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2010,3265,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2011,3179,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2012,3429,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2013,3692,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2014,3535,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2015,4374,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2016,4631,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2017,4448,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2018,4635,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2019,4943,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2020,3028,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2021,4069,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2022,4851,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2023,5110,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2024,5398,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2008,11695,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2009,13968,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2010,13972,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2011,6766,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2012,6985,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2013,7474,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2014,9194,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2015,8975,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2016,8803,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2017,10736,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2018,11071,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2019,11720,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2020,6834,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2021,10705,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2022,10928,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2023,11611,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2024,13249,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2008,222711,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2009,268506,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2010,271273,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2011,246992,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2012,198780,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2013,183197,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2014,177234,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2015,229097,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2016,170943,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2017,179633,False,False
+EDUC,Education reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2018,190346,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,AT,Austria,2008,9,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,AT,Austria,2009,6,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,AT,Austria,2010,8,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,AT,Austria,2011,3,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,AT,Austria,2012,12,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,AT,Austria,2013,13,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,AT,Austria,2014,13,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,AT,Austria,2015,15,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,AT,Austria,2016,26,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,AT,Austria,2017,31,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,AT,Austria,2018,29,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,AT,Austria,2019,46,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,AT,Austria,2020,29,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,AT,Austria,2021,50,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,AT,Austria,2022,98,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,AT,Austria,2023,91,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,AT,Austria,2024,74,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,BE,Belgium,2008,3,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,BE,Belgium,2009,22,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,BE,Belgium,2010,15,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,BE,Belgium,2011,17,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,BE,Belgium,2012,16,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,BE,Belgium,2013,30,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,BE,Belgium,2014,51,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,BE,Belgium,2015,54,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,BE,Belgium,2016,85,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,BE,Belgium,2017,86,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,BE,Belgium,2018,53,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,BE,Belgium,2019,56,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,BE,Belgium,2020,66,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,BE,Belgium,2021,106,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,BE,Belgium,2022,179,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,BE,Belgium,2023,200,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,BE,Belgium,2024,299,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,BE,Belgium,2025,192,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2012,10,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2013,33,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2014,0,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2015,59,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2016,65,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2017,65,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2018,40,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2020,42,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2021,41,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2022,65,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2023,85,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2024,72,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2008,10,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2009,7,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2010,1,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2011,0,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2012,12,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2013,6,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2014,3,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2015,14,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2016,26,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2017,27,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2018,83,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2019,145,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2020,41,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2021,36,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2022,92,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2023,73,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2024,42,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,DE,Germany,2008,45,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,DE,Germany,2009,28,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,DE,Germany,2010,30,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,DE,Germany,2011,38,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,DE,Germany,2012,74,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,DE,Germany,2013,110,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,DE,Germany,2014,126,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,DE,Germany,2015,57,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,DE,Germany,2016,772,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,DE,Germany,2017,1796,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,DE,Germany,2018,3549,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,DE,Germany,2019,4297,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,DE,Germany,2020,2564,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,DE,Germany,2021,2172,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,DE,Germany,2022,5003,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,DE,Germany,2023,5485,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,DE,Germany,2024,3939,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EL,Greece,2008,13076,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EL,Greece,2009,13942,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EL,Greece,2010,7750,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EL,Greece,2011,3893,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EL,Greece,2012,183,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EL,Greece,2013,201,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EL,Greece,2014,586,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EL,Greece,2015,519,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EL,Greece,2016,1414,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EL,Greece,2017,1157,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EL,Greece,2018,1635,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EL,Greece,2019,1913,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EL,Greece,2020,821,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EL,Greece,2021,874,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EL,Greece,2022,3082,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EL,Greece,2023,2839,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EL,Greece,2024,7213,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,ES,Spain,2008,20,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,ES,Spain,2009,18,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,ES,Spain,2010,12,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,ES,Spain,2011,17,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,ES,Spain,2012,22,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,ES,Spain,2013,18,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,ES,Spain,2014,17,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,ES,Spain,2015,19,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,ES,Spain,2016,22,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,ES,Spain,2017,25,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,ES,Spain,2018,43,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,ES,Spain,2019,36,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,ES,Spain,2020,59,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,ES,Spain,2021,68,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,ES,Spain,2022,96,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,ES,Spain,2023,82,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,ES,Spain,2024,82,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2013,3861,True,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2014,3209,True,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2015,2218,True,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2016,4138,True,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2017,5572,True,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2018,9881,True,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2019,12918,True,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2020,7740,True,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2021,13449,True,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2022,21059,True,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2023,18135,True,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2024,18965,True,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2013,3908,True,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2014,3257,True,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2015,2266,True,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2016,4171,True,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2017,5618,True,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2018,9929,True,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2019,12669,True,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,FR,France,2008,31,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,FR,France,2009,21,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,FR,France,2010,20,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,FR,France,2011,23,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,FR,France,2012,17,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,FR,France,2013,53,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,FR,France,2014,48,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,FR,France,2015,69,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,FR,France,2016,111,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,FR,France,2017,142,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,FR,France,2018,184,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,FR,France,2019,241,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,FR,France,2020,220,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,FR,France,2021,325,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,FR,France,2022,430,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,FR,France,2023,582,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,FR,France,2024,557,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,HR,Croatia,2013,1,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,HR,Croatia,2014,1,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,HR,Croatia,2015,4,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,HR,Croatia,2016,5,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,HR,Croatia,2017,290,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,HR,Croatia,2018,1072,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,HR,Croatia,2019,2194,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,HR,Croatia,2020,1676,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,HR,Croatia,2021,1755,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,HR,Croatia,2022,1924,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,HR,Croatia,2023,1749,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,HR,Croatia,2024,1440,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,IT,Italy,2008,25151,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,IT,Italy,2009,12772,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,IT,Italy,2010,21341,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,IT,Italy,2011,6222,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,IT,Italy,2012,3465,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,IT,Italy,2013,3257,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,IT,Italy,2014,2187,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,IT,Italy,2015,1151,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,IT,Italy,2016,1218,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,IT,Italy,2017,1198,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,IT,Italy,2018,1675,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,IT,Italy,2019,1481,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,IT,Italy,2020,904,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,IT,Italy,2021,5793,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,IT,Italy,2022,5791,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,IT,Italy,2023,3216,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,IT,Italy,2024,3048,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2013,0,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2014,0,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2015,0,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2016,0,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2017,0,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2018,0,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2019,0,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2020,0,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2021,0,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2022,1,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2023,1,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2024,0,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2008,11,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2009,6,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2010,7,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2011,4,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2012,10,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2013,12,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2014,15,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2015,16,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2016,20,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2017,34,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2018,34,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2019,46,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2020,23,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2021,51,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2022,118,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2023,64,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2024,62,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PL,Poland,2008,12,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PL,Poland,2009,8,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PL,Poland,2010,5,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PL,Poland,2011,2,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PL,Poland,2012,2,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PL,Poland,2013,7,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PL,Poland,2014,12,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PL,Poland,2015,13,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PL,Poland,2016,20,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PL,Poland,2017,48,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PL,Poland,2018,113,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PL,Poland,2019,81,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PL,Poland,2020,103,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PL,Poland,2021,182,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PL,Poland,2022,465,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PL,Poland,2023,722,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PL,Poland,2024,392,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PT,Portugal,2008,1,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PT,Portugal,2009,1,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PT,Portugal,2010,1,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PT,Portugal,2011,0,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PT,Portugal,2012,1,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PT,Portugal,2013,1,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PT,Portugal,2014,3,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PT,Portugal,2015,1,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PT,Portugal,2016,2,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PT,Portugal,2017,3,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PT,Portugal,2018,4,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PT,Portugal,2019,4,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PT,Portugal,2020,6,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PT,Portugal,2021,0,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PT,Portugal,2022,13,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PT,Portugal,2023,16,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,PT,Portugal,2024,6,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,RO,Romania,2008,8,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,RO,Romania,2009,1,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,RO,Romania,2010,2,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,RO,Romania,2011,33,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,RO,Romania,2012,9,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,RO,Romania,2013,2,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,RO,Romania,2014,3,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,RO,Romania,2015,5,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,RO,Romania,2016,8,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,RO,Romania,2017,3,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,RO,Romania,2018,19,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,RO,Romania,2019,97,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,RO,Romania,2020,86,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,RO,Romania,2021,84,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,RO,Romania,2022,86,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,RO,Romania,2023,44,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,RO,Romania,2024,37,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,SE,Sweden,2008,44,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,SE,Sweden,2009,43,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,SE,Sweden,2010,25,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,SE,Sweden,2011,33,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,SE,Sweden,2012,30,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,SE,Sweden,2013,29,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,SE,Sweden,2014,41,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,SE,Sweden,2015,134,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,SE,Sweden,2016,228,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,SE,Sweden,2017,377,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,SE,Sweden,2018,543,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,SE,Sweden,2019,539,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,SE,Sweden,2020,339,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,SE,Sweden,2021,281,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,SE,Sweden,2022,411,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,SE,Sweden,2023,303,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,SE,Sweden,2024,191,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2008,87,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2009,60,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2010,38,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2011,25,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2012,31,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2013,47,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2014,48,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2015,48,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2016,33,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2017,46,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2018,48,False,False
+EMP,Employment reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2019,0,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2008,3096,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2009,2692,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2010,2923,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2011,3244,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2012,3685,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2013,3555,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2014,3442,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2015,3598,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2016,3337,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2017,2938,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2018,3737,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2019,4077,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2020,2739,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2021,3935,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2022,5437,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2023,7166,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2024,8318,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2008,7097,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2009,5391,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2010,4346,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2011,4705,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2012,4647,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2013,4347,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2014,4768,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2015,4948,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2016,5179,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2017,5947,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2018,6073,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2019,6114,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2020,4110,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2021,6247,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2022,8144,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2023,8631,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2024,8290,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2025,7392,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2012,11275,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2013,13384,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2014,12776,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2015,10169,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2016,10033,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2017,10033,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2018,10361,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2020,11601,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2021,10221,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2022,13387,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2023,13707,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2024,12600,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2008,43282,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2009,11312,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2010,11606,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2011,3315,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2012,17887,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2013,18263,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2014,11083,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2015,19931,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2016,23095,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2017,23327,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2018,35529,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2019,66440,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2020,29217,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2021,41592,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2022,24592,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2023,13688,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2024,16325,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2008,20297,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2009,16667,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2010,16540,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2011,18659,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2012,27338,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2013,27788,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2014,29275,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2015,13451,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2016,39552,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2017,52915,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2018,68342,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2019,72635,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2020,51023,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2021,60063,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2022,96865,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2023,102411,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2024,77149,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2008,15609,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2009,16383,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2010,9692,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2011,5568,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2012,1037,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2013,1226,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2014,2190,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2015,1111,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2016,2133,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2017,2022,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2018,2861,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2019,3133,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2020,1632,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2021,2193,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2022,5649,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2023,11838,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2024,22290,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2008,96319,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2009,102736,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2010,79315,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2011,86468,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2012,63713,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2013,49525,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2014,42873,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2015,41566,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2016,38154,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2017,42672,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2018,58433,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2019,63267,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2020,81158,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2021,88119,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2022,140034,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2023,128844,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2024,95735,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2013,425436,True,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2014,456193,True,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2015,589099,True,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2016,736930,True,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2017,904080,True,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2018,984031,True,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2019,1202233,True,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2020,935232,True,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2021,1362306,True,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2022,1265871,True,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2023,1275215,True,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2024,1115986,True,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2013,533988,True,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2014,572900,True,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2015,707179,True,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2016,854006,True,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2017,1008292,True,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2018,1092181,True,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2019,1197786,True,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,FR,France,2008,21784,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,FR,France,2009,20635,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,FR,France,2010,18799,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,FR,France,2011,18335,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,FR,France,2012,15827,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,FR,France,2013,18244,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,FR,France,2014,19428,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,FR,France,2015,21003,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,FR,France,2016,23275,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,FR,France,2017,27835,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,FR,France,2018,33993,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,FR,France,2019,39652,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,FR,France,2020,27354,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,FR,France,2021,38060,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,FR,France,2022,55247,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,FR,France,2023,58762,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,FR,France,2024,58603,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2013,599,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2014,609,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2015,790,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2016,2634,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2017,6987,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2018,23754,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2019,46587,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2020,31816,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2021,30056,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2022,53471,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2023,77541,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2024,85574,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2008,272791,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2009,235966,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2010,359051,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2011,119342,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2012,66742,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2013,80726,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2014,53327,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2015,17370,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2016,9389,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2017,8409,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2018,13877,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2019,11069,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2020,10243,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2021,50597,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2022,66791,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2023,38103,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2024,39090,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2013,96,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2014,103,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2015,104,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2016,99,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2017,104,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2018,109,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2019,120,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2020,105,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2021,137,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2022,124,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2023,110,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2024,93,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2008,11613,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2009,10433,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2010,10448,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2011,10961,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2012,10921,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2013,12673,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2014,11780,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2015,13308,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2016,14621,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2017,17744,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2018,20885,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2019,22030,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2020,13345,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2021,20769,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2022,32123,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2023,27439,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2024,23415,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2008,18653,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2009,11123,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2010,86839,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2011,76525,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2012,97031,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2013,141668,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2014,206279,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2015,375342,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2016,493960,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2017,596916,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2018,533646,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2019,625120,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2020,502342,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2021,790070,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2022,447225,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2023,427162,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2024,337874,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2008,25286,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2009,18275,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2010,10869,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2011,7276,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2012,5917,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2013,6394,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2014,6409,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2015,6805,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2016,5791,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2017,8164,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2018,20256,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2019,34999,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2020,32666,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2021,38659,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2022,53194,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2023,55161,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2024,60553,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2008,9039,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2009,4724,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2010,1700,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2011,1971,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2012,1656,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2013,1542,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2014,1803,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2015,1680,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2016,1766,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2017,2952,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2018,6347,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2019,16394,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2020,10788,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2021,18011,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2022,31079,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2023,44662,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2024,44084,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2008,14259,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2009,18978,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2010,15273,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2011,16455,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2012,18520,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2013,17189,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2014,14857,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2015,15726,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2016,15632,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2017,18138,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2018,23926,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2019,25556,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2020,17313,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2021,21115,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2022,24082,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2023,19124,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2024,12737,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2008,139733,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2009,116668,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2010,121386,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2011,108187,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2012,106290,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2013,108552,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2014,116707,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2015,118080,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2016,117076,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2017,104212,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2018,108150,False,False
+EMP,Employment reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2019,0,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,AT,Austria,2008,27,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,AT,Austria,2009,26,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,AT,Austria,2010,39,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,AT,Austria,2011,40,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,AT,Austria,2012,53,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,AT,Austria,2013,55,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,AT,Austria,2014,72,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,AT,Austria,2015,104,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,AT,Austria,2016,118,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,AT,Austria,2017,115,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,AT,Austria,2018,130,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,AT,Austria,2019,158,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,AT,Austria,2020,136,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,AT,Austria,2021,167,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,AT,Austria,2022,251,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,AT,Austria,2023,218,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,AT,Austria,2024,208,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,BE,Belgium,2008,200,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,BE,Belgium,2009,286,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,BE,Belgium,2010,308,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,BE,Belgium,2011,308,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,BE,Belgium,2012,203,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,BE,Belgium,2013,245,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,BE,Belgium,2014,273,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,BE,Belgium,2015,296,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,BE,Belgium,2016,295,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,BE,Belgium,2017,327,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,BE,Belgium,2018,377,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,BE,Belgium,2019,397,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,BE,Belgium,2020,336,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,BE,Belgium,2021,392,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,BE,Belgium,2022,438,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,BE,Belgium,2023,507,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,BE,Belgium,2024,637,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,BE,Belgium,2025,581,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2012,74,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2013,87,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2014,101,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2015,133,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2016,150,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2017,189,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2018,202,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2019,245,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2020,236,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2021,276,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2022,308,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2023,339,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CH,Switzerland,2024,354,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2008,15,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2009,23,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2010,15,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2011,38,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2012,7,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2013,14,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2014,14,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2015,31,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2016,48,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2017,33,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2018,31,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2019,51,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2020,32,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2021,33,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2022,37,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2023,36,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,CZ,Czechia,2024,32,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,DE,Germany,2008,255,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,DE,Germany,2009,224,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,DE,Germany,2010,194,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,DE,Germany,2011,191,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,DE,Germany,2012,430,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,DE,Germany,2013,667,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,DE,Germany,2014,873,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,DE,Germany,2015,1702,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,DE,Germany,2016,1795,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,DE,Germany,2017,2358,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,DE,Germany,2018,3939,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,DE,Germany,2019,4477,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,DE,Germany,2020,4901,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,DE,Germany,2021,6765,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,DE,Germany,2022,8081,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,DE,Germany,2023,8494,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,DE,Germany,2024,7480,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EL,Greece,2008,16440,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EL,Greece,2009,16937,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EL,Greece,2010,11864,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EL,Greece,2011,8078,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EL,Greece,2012,7942,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EL,Greece,2013,7187,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EL,Greece,2014,8263,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EL,Greece,2015,13824,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EL,Greece,2016,17570,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EL,Greece,2017,8685,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EL,Greece,2018,9446,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EL,Greece,2019,7809,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EL,Greece,2020,4070,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EL,Greece,2021,6507,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EL,Greece,2022,7523,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EL,Greece,2023,5416,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EL,Greece,2024,5148,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,ES,Spain,2008,89,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,ES,Spain,2009,84,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,ES,Spain,2010,77,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,ES,Spain,2011,71,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,ES,Spain,2012,78,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,ES,Spain,2013,78,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,ES,Spain,2014,71,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,ES,Spain,2015,77,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,ES,Spain,2016,90,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,ES,Spain,2017,119,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,ES,Spain,2018,135,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,ES,Spain,2019,160,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,ES,Spain,2020,225,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,ES,Spain,2021,379,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,ES,Spain,2022,413,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,ES,Spain,2023,394,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,ES,Spain,2024,367,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2013,18635,True,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2014,19541,True,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2015,28691,True,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2016,33295,True,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2017,27233,True,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2018,31874,True,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2019,29152,True,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2020,20077,True,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2021,37041,True,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2022,43513,True,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2023,42859,True,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2024,34017,True,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2013,19070,True,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2014,20257,True,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2015,29406,True,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2016,34296,True,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2017,29252,True,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2018,34429,True,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,FR,France,2008,146,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,FR,France,2009,163,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,FR,France,2010,143,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,FR,France,2011,149,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,FR,France,2012,159,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,FR,France,2013,176,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,FR,France,2014,202,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,FR,France,2015,312,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,FR,France,2016,433,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,FR,France,2017,523,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,FR,France,2018,599,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,FR,France,2019,798,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,FR,France,2020,696,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,FR,France,2021,827,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,FR,France,2022,989,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,FR,France,2023,992,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,FR,France,2024,900,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,HR,Croatia,2013,14,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,HR,Croatia,2014,6,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,HR,Croatia,2015,7,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,HR,Croatia,2016,6,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,HR,Croatia,2017,9,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,HR,Croatia,2018,4,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,HR,Croatia,2019,15,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,HR,Croatia,2020,11,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,HR,Croatia,2021,58,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,HR,Croatia,2022,65,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,HR,Croatia,2023,46,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,HR,Croatia,2024,63,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,IT,Italy,2008,14047,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,IT,Italy,2009,15001,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,IT,Italy,2010,23941,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,IT,Italy,2011,15303,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,IT,Italy,2012,11843,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,IT,Italy,2013,9725,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,IT,Italy,2014,9281,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,IT,Italy,2015,11640,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,IT,Italy,2016,12009,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,IT,Italy,2017,13890,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,IT,Italy,2018,15723,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,IT,Italy,2019,13557,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,IT,Italy,2020,8448,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,IT,Italy,2021,20505,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,IT,Italy,2022,24023,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,IT,Italy,2023,24988,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,IT,Italy,2024,17762,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2013,0,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2014,0,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2015,1,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2016,1,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2017,2,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2018,2,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2019,1,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2020,1,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2021,1,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2022,0,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2023,1,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,LI,Liechtenstein,2024,1,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2008,61,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2009,70,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2010,55,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2011,43,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2012,57,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2013,76,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2014,42,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2015,27,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2016,46,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2017,64,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2018,77,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2019,120,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2020,78,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2021,87,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2022,117,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2023,127,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,NL,Netherlands,2024,122,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PL,Poland,2008,73,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PL,Poland,2009,85,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PL,Poland,2010,23,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PL,Poland,2011,23,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PL,Poland,2012,18,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PL,Poland,2013,17,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PL,Poland,2014,8,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PL,Poland,2015,0,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PL,Poland,2016,15,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PL,Poland,2017,35,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PL,Poland,2018,67,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PL,Poland,2019,22,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PL,Poland,2020,42,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PL,Poland,2021,28,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PL,Poland,2022,44,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PL,Poland,2023,53,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PL,Poland,2024,35,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PT,Portugal,2008,6,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PT,Portugal,2009,4,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PT,Portugal,2010,4,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PT,Portugal,2011,1,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PT,Portugal,2012,1,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PT,Portugal,2013,2,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PT,Portugal,2014,1,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PT,Portugal,2015,3,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PT,Portugal,2016,5,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PT,Portugal,2017,6,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PT,Portugal,2018,7,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PT,Portugal,2019,6,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PT,Portugal,2020,8,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PT,Portugal,2021,6,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PT,Portugal,2022,6,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PT,Portugal,2023,6,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,PT,Portugal,2024,4,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,RO,Romania,2008,117,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,RO,Romania,2009,148,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,RO,Romania,2010,137,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,RO,Romania,2011,83,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,RO,Romania,2012,80,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,RO,Romania,2013,114,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,RO,Romania,2014,102,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,RO,Romania,2015,153,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,RO,Romania,2016,136,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,RO,Romania,2017,160,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,RO,Romania,2018,152,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,RO,Romania,2019,109,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,RO,Romania,2020,76,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,RO,Romania,2021,106,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,RO,Romania,2022,115,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,RO,Romania,2023,90,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,RO,Romania,2024,86,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,SE,Sweden,2008,87,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,SE,Sweden,2009,78,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,SE,Sweden,2010,86,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,SE,Sweden,2011,104,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,SE,Sweden,2012,126,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,SE,Sweden,2013,107,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,SE,Sweden,2014,178,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,SE,Sweden,2015,295,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,SE,Sweden,2016,452,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,SE,Sweden,2017,650,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,SE,Sweden,2018,879,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,SE,Sweden,2019,1082,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,SE,Sweden,2020,655,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,SE,Sweden,2021,622,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,SE,Sweden,2022,734,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,SE,Sweden,2023,671,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,SE,Sweden,2024,583,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2008,553,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2009,684,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2010,582,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2011,508,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2012,380,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2013,435,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2014,716,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2015,715,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2016,1001,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2017,2019,False,False
+FAM,Family reasons,AL,Albania,TOTAL,Total,UK,United Kingdom,2018,2555,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2008,14400,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2009,14572,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2010,14559,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2011,13729,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2012,13134,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2013,12652,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2014,13394,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2015,15529,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2016,15635,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2017,13857,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2018,13064,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2019,13481,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2020,11634,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2021,14457,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2022,17369,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2023,18156,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,AT,Austria,2024,18710,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2008,20320,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2009,28523,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2010,30547,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2011,30438,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2012,25060,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2013,22266,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2014,23114,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2015,26206,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2016,26325,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2017,28654,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2018,29551,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2019,32261,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2020,25712,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2021,32710,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2022,33313,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2023,33774,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2024,36019,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,BE,Belgium,2025,34897,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2012,19661,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2013,20561,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2014,18526,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2015,18563,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2016,19508,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2017,19013,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2018,19559,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2019,17895,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2020,15893,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2021,19561,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2022,21123,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2023,20677,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CH,Switzerland,2024,18931,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2008,10699,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2009,9283,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2010,14851,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2011,10013,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2012,9630,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2013,10311,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2014,10687,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2015,21265,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2016,24568,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2017,15448,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2018,16512,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2019,26796,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2020,13423,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2021,16535,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2022,14250,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2023,12492,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,CZ,Czechia,2024,12417,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2008,49642,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2009,54139,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2010,52172,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2011,46782,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2012,75928,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2013,82492,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2014,91661,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2015,133893,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2016,136982,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2017,156973,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2018,190856,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2019,161728,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2020,133365,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2021,190279,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2022,216925,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2023,236330,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,DE,Germany,2024,196979,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2008,21855,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2009,22637,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2010,16547,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2011,12724,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2012,11835,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2013,10852,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2014,12647,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2015,19175,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2016,23598,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2017,13798,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2018,17079,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2019,19694,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2020,8323,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2021,11773,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2022,15935,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2023,17366,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EL,Greece,2024,16122,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2008,150101,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2009,125288,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2010,141891,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2011,148061,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2012,119863,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2013,107051,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2014,101025,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2015,102454,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2016,115143,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2017,125637,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2018,134196,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2019,143860,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2020,119738,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2021,159246,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2022,174532,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2023,230138,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,ES,Spain,2024,258192,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2013,577977,True,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2014,584934,True,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2015,671049,True,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2016,689513,True,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2017,736199,True,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2018,814233,True,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2019,805430,True,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2020,621444,True,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2021,816287,True,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2022,926921,True,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2023,1016363,True,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2024,950422,True,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2013,673005,True,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2014,681435,True,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2015,760985,True,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2016,778854,True,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2017,837341,True,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2018,914773,True,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,FR,France,2008,85475,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,FR,France,2009,87786,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,FR,France,2010,85593,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,FR,France,2011,80284,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,FR,France,2012,84747,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,FR,France,2013,91707,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,FR,France,2014,92272,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,FR,France,2015,99312,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,FR,France,2016,94345,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,FR,France,2017,94247,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,FR,France,2018,97664,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,FR,France,2019,98174,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,FR,France,2020,80730,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,FR,France,2021,93583,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,FR,France,2022,97038,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,FR,France,2023,92719,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,FR,France,2024,91030,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2013,2154,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2014,1928,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2015,1852,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2016,1673,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2017,1694,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2018,1559,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2019,2921,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2020,2487,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2021,2847,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2022,2710,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2023,2461,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,HR,Croatia,2024,2713,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2008,76764,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2009,75153,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2010,180391,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2011,141403,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2012,119745,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2013,108358,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2014,99051,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2015,109328,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2016,101269,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2017,112607,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2018,121930,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2019,100939,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2020,62274,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2021,120520,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2022,131275,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2023,135734,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,IT,Italy,2024,110093,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2013,520,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2014,501,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2015,533,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2016,533,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2017,539,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2018,575,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2019,648,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2020,652,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2021,683,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2022,688,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2023,677,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2024,667,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2008,24092,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2009,23077,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2010,21560,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2011,22327,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2012,21160,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2013,25376,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2014,22115,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2015,21683,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2016,24962,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2017,30968,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2018,34036,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2019,38653,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2020,28872,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2021,34541,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2022,45870,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2023,45339,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,NL,Netherlands,2024,42209,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2008,8921,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2009,8699,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2010,2567,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2011,2662,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2012,3062,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2013,2628,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2014,1188,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2015,1010,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2016,8416,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2017,9201,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2018,13050,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2019,16780,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2020,12250,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2021,11159,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2022,19004,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2023,19259,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PL,Poland,2024,22544,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2008,27270,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2009,19964,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2010,17478,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2011,18229,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2012,14654,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2013,12224,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2014,13846,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2015,12916,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2016,12755,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2017,17840,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2018,26659,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2019,38203,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2020,35735,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2021,29516,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2022,38602,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2023,44617,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,PT,Portugal,2024,24154,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2008,6109,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2009,6043,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2010,4642,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2011,3920,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2012,3899,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2013,4155,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2014,3331,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2015,3770,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2016,3871,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2017,3578,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2018,3856,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2019,4205,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2020,2789,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2021,4145,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2022,4224,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2023,5109,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,RO,Romania,2024,5534,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2008,36626,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2009,37890,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2010,33552,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2011,35934,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2012,43999,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2013,43156,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2014,46262,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2015,46354,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2016,47697,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2017,59237,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2018,58939,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2019,48659,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2020,37341,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2021,37371,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2022,36165,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2023,34938,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,SE,Sweden,2024,32819,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2008,117041,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2009,121268,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2010,125360,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2011,118680,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2012,90879,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2013,95028,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2014,96501,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2015,89936,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2016,89341,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2017,101142,False,False
+FAM,Family reasons,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2018,100540,False,False
+TOTAL,Total,AL,Albania,TOTAL,Total,AT,Austria,2008,84,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,AT,Austria,2009,116,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,AT,Austria,2010,169,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,AT,Austria,2011,200,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,AT,Austria,2012,234,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,AT,Austria,2013,189,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,AT,Austria,2014,219,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,AT,Austria,2015,318,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,AT,Austria,2016,342,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,AT,Austria,2017,334,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,AT,Austria,2018,331,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,AT,Austria,2019,384,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,AT,Austria,2020,300,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,AT,Austria,2021,402,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,AT,Austria,2022,544,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,AT,Austria,2023,472,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,AT,Austria,2024,480,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,BE,Belgium,2008,407,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,BE,Belgium,2009,1067,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,BE,Belgium,2010,764,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,BE,Belgium,2011,546,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,BE,Belgium,2012,486,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,BE,Belgium,2013,493,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,BE,Belgium,2014,542,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,BE,Belgium,2015,602,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,BE,Belgium,2016,653,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,BE,Belgium,2017,764,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,BE,Belgium,2018,787,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,BE,Belgium,2019,774,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,BE,Belgium,2020,766,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,BE,Belgium,2021,844,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,BE,Belgium,2022,1023,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,BE,Belgium,2023,1241,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,BE,Belgium,2024,1403,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,BE,Belgium,2025,1236,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CH,Switzerland,2012,121,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CH,Switzerland,2013,160,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CH,Switzerland,2014,142,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CH,Switzerland,2015,242,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CH,Switzerland,2016,281,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CH,Switzerland,2017,319,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CH,Switzerland,2018,319,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CH,Switzerland,2021,389,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CH,Switzerland,2022,445,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CH,Switzerland,2023,493,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CH,Switzerland,2024,498,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CZ,Czechia,2008,44,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CZ,Czechia,2009,44,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CZ,Czechia,2010,47,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CZ,Czechia,2011,60,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CZ,Czechia,2012,48,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CZ,Czechia,2013,43,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CZ,Czechia,2014,44,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CZ,Czechia,2015,108,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CZ,Czechia,2016,144,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CZ,Czechia,2017,119,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CZ,Czechia,2018,164,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CZ,Czechia,2019,254,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CZ,Czechia,2020,105,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CZ,Czechia,2021,109,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CZ,Czechia,2022,148,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CZ,Czechia,2023,160,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,CZ,Czechia,2024,104,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,DE,Germany,2008,461,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,DE,Germany,2009,443,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,DE,Germany,2010,366,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,DE,Germany,2011,349,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,DE,Germany,2012,836,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,DE,Germany,2013,1267,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,DE,Germany,2014,1723,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,DE,Germany,2015,2110,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,DE,Germany,2016,4045,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,DE,Germany,2017,6110,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,DE,Germany,2018,10487,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,DE,Germany,2019,11107,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,DE,Germany,2020,9652,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,DE,Germany,2021,11826,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,DE,Germany,2022,15939,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,DE,Germany,2023,16763,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,DE,Germany,2024,13616,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EL,Greece,2008,30248,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EL,Greece,2009,33925,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EL,Greece,2010,23546,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EL,Greece,2011,12812,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EL,Greece,2012,9544,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EL,Greece,2013,10250,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EL,Greece,2014,13100,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EL,Greece,2015,26342,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EL,Greece,2016,30958,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EL,Greece,2017,16468,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EL,Greece,2018,16936,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EL,Greece,2019,15733,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EL,Greece,2020,7768,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EL,Greece,2021,10231,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EL,Greece,2022,14356,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EL,Greece,2023,12628,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EL,Greece,2024,16525,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,ES,Spain,2008,165,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,ES,Spain,2009,141,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,ES,Spain,2010,121,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,ES,Spain,2011,131,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,ES,Spain,2012,133,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,ES,Spain,2013,138,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,ES,Spain,2014,134,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,ES,Spain,2015,172,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,ES,Spain,2016,217,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,ES,Spain,2017,258,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,ES,Spain,2018,285,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,ES,Spain,2019,312,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,ES,Spain,2020,422,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,ES,Spain,2021,622,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,ES,Spain,2022,718,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,ES,Spain,2023,685,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,ES,Spain,2024,678,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2013,30095,True,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2014,32470,True,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2015,49065,True,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2016,57211,True,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2017,48596,True,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2018,59224,True,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2019,61178,True,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2020,39566,True,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2021,62329,True,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2022,79178,True,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2023,76885,True,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2024,66161,True,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2013,31297,True,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2014,33976,True,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2015,50865,True,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2016,59387,True,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2017,51869,True,True
+TOTAL,Total,AL,Albania,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2018,62474,True,True
+TOTAL,Total,AL,Albania,TOTAL,Total,FR,France,2008,404,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,FR,France,2009,397,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,FR,France,2010,404,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,FR,France,2011,487,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,FR,France,2012,504,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,FR,France,2013,646,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,FR,France,2014,917,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,FR,France,2015,1277,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,FR,France,2016,1612,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,FR,France,2017,1918,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,FR,France,2018,2182,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,FR,France,2019,2469,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,FR,France,2020,1951,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,FR,France,2021,2331,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,FR,France,2022,2483,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,FR,France,2023,2742,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,FR,France,2024,2798,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,HR,Croatia,2013,18,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,HR,Croatia,2014,18,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,HR,Croatia,2015,16,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,HR,Croatia,2016,21,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,HR,Croatia,2017,306,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,HR,Croatia,2018,1088,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,HR,Croatia,2019,2216,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,HR,Croatia,2020,1695,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,HR,Croatia,2021,1819,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,HR,Croatia,2022,2003,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,HR,Croatia,2023,1800,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,HR,Croatia,2024,1506,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,IT,Italy,2008,64297,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,IT,Italy,2009,46674,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,IT,Italy,2010,47602,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,IT,Italy,2011,24316,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,IT,Italy,2012,18398,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,IT,Italy,2013,15890,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,IT,Italy,2014,14591,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,IT,Italy,2015,16477,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,IT,Italy,2016,17167,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,IT,Italy,2017,19693,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,IT,Italy,2018,23147,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,IT,Italy,2019,22931,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,IT,Italy,2020,13627,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,IT,Italy,2021,29732,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,IT,Italy,2022,34864,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,IT,Italy,2023,34113,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,IT,Italy,2024,24734,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,LI,Liechtenstein,2013,0,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,LI,Liechtenstein,2014,0,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,LI,Liechtenstein,2015,3,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,LI,Liechtenstein,2016,1,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,LI,Liechtenstein,2017,6,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,LI,Liechtenstein,2018,4,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,LI,Liechtenstein,2019,1,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,LI,Liechtenstein,2020,1,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,LI,Liechtenstein,2021,1,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,LI,Liechtenstein,2022,1,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,LI,Liechtenstein,2023,2,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,LI,Liechtenstein,2024,1,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,NL,Netherlands,2008,128,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,NL,Netherlands,2009,126,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,NL,Netherlands,2010,104,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,NL,Netherlands,2011,88,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,NL,Netherlands,2012,121,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,NL,Netherlands,2013,157,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,NL,Netherlands,2014,177,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,NL,Netherlands,2015,186,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,NL,Netherlands,2016,239,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,NL,Netherlands,2017,255,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,NL,Netherlands,2018,270,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,NL,Netherlands,2019,357,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,NL,Netherlands,2020,244,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,NL,Netherlands,2021,299,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,NL,Netherlands,2022,444,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,NL,Netherlands,2023,340,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,NL,Netherlands,2024,366,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PL,Poland,2008,162,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PL,Poland,2009,163,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PL,Poland,2010,91,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PL,Poland,2011,45,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PL,Poland,2012,54,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PL,Poland,2013,87,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PL,Poland,2014,68,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PL,Poland,2015,63,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PL,Poland,2016,79,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PL,Poland,2017,168,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PL,Poland,2018,267,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PL,Poland,2019,168,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PL,Poland,2020,236,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PL,Poland,2021,348,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PL,Poland,2022,626,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PL,Poland,2023,887,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PL,Poland,2024,535,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PT,Portugal,2008,10,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PT,Portugal,2009,5,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PT,Portugal,2010,6,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PT,Portugal,2011,6,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PT,Portugal,2012,3,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PT,Portugal,2013,4,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PT,Portugal,2014,9,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PT,Portugal,2015,12,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PT,Portugal,2016,12,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PT,Portugal,2017,10,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PT,Portugal,2018,15,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PT,Portugal,2019,13,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PT,Portugal,2020,24,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PT,Portugal,2021,6,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PT,Portugal,2022,22,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PT,Portugal,2023,30,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,PT,Portugal,2024,14,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,RO,Romania,2008,168,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,RO,Romania,2009,196,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,RO,Romania,2010,171,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,RO,Romania,2011,154,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,RO,Romania,2012,147,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,RO,Romania,2013,190,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,RO,Romania,2014,181,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,RO,Romania,2015,248,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,RO,Romania,2016,214,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,RO,Romania,2017,214,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,RO,Romania,2018,250,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,RO,Romania,2019,275,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,RO,Romania,2020,266,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,RO,Romania,2021,261,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,RO,Romania,2022,249,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,RO,Romania,2023,198,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,RO,Romania,2024,167,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,SE,Sweden,2008,191,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,SE,Sweden,2009,178,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,SE,Sweden,2010,161,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,SE,Sweden,2011,177,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,SE,Sweden,2012,247,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,SE,Sweden,2013,216,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,SE,Sweden,2014,300,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,SE,Sweden,2015,530,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,SE,Sweden,2016,791,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,SE,Sweden,2017,1102,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,SE,Sweden,2018,1495,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,SE,Sweden,2019,1684,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,SE,Sweden,2020,1076,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,SE,Sweden,2021,963,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,SE,Sweden,2022,1210,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,SE,Sweden,2023,1035,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,SE,Sweden,2024,822,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,UK,United Kingdom,2008,1425,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,UK,United Kingdom,2009,1524,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,UK,United Kingdom,2010,1348,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,UK,United Kingdom,2011,1144,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,UK,United Kingdom,2012,1023,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,UK,United Kingdom,2013,1202,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,UK,United Kingdom,2014,1506,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,UK,United Kingdom,2015,1800,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,UK,United Kingdom,2016,2176,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,UK,United Kingdom,2017,3273,False,True
+TOTAL,Total,AL,Albania,TOTAL,Total,UK,United Kingdom,2018,3250,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,AT,Austria,2008,21783,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,AT,Austria,2009,28035,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,AT,Austria,2010,30596,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,AT,Austria,2011,35442,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,AT,Austria,2012,37816,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,AT,Austria,2013,34308,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,AT,Austria,2014,40062,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,AT,Austria,2015,51282,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,AT,Austria,2016,50066,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,AT,Austria,2017,55968,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,AT,Austria,2018,46521,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,AT,Austria,2019,39865,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,AT,Austria,2020,34759,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,AT,Austria,2021,47892,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,AT,Austria,2022,55258,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,AT,Austria,2023,62890,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,AT,Austria,2024,65668,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,BE,Belgium,2008,46201,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,BE,Belgium,2009,58939,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,BE,Belgium,2010,58861,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,BE,Belgium,2011,56741,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,BE,Belgium,2012,48484,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,BE,Belgium,2013,43861,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,BE,Belgium,2014,45513,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,BE,Belgium,2015,52565,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,BE,Belgium,2016,58216,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,BE,Belgium,2017,59827,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,BE,Belgium,2018,59624,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,BE,Belgium,2019,60312,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,BE,Belgium,2020,47640,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,BE,Belgium,2021,63504,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,BE,Belgium,2022,68522,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,BE,Belgium,2023,74366,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,BE,Belgium,2024,78828,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,BE,Belgium,2025,73667,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CH,Switzerland,2012,44764,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CH,Switzerland,2013,49238,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CH,Switzerland,2014,43252,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CH,Switzerland,2015,41105,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CH,Switzerland,2016,42021,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CH,Switzerland,2017,42179,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CH,Switzerland,2018,43726,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CH,Switzerland,2021,45012,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CH,Switzerland,2022,50919,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CH,Switzerland,2023,50680,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CH,Switzerland,2024,47518,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CZ,Czechia,2008,61350,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CZ,Czechia,2009,27539,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CZ,Czechia,2010,34653,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CZ,Czechia,2011,20978,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CZ,Czechia,2012,42122,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CZ,Czechia,2013,45544,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CZ,Czechia,2014,35458,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CZ,Czechia,2015,68804,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CZ,Czechia,2016,80068,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CZ,Czechia,2017,57721,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CZ,Czechia,2018,71201,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CZ,Czechia,2019,117069,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CZ,Czechia,2020,54332,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CZ,Czechia,2021,74395,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CZ,Czechia,2022,53809,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CZ,Czechia,2023,43792,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,CZ,Czechia,2024,45436,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,DE,Germany,2008,114289,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,DE,Germany,2009,121954,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,DE,Germany,2010,117202,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,DE,Germany,2011,110349,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,DE,Germany,2012,184070,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,DE,Germany,2013,199925,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,DE,Germany,2014,237627,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,DE,Germany,2015,194813,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,DE,Germany,2016,504849,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,DE,Germany,2017,535446,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,DE,Germany,2018,543571,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,DE,Germany,2019,425072,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,DE,Germany,2020,351735,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,DE,Germany,2021,504298,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,DE,Germany,2022,625386,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,DE,Germany,2023,662888,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,DE,Germany,2024,544987,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EL,Greece,2008,40411,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EL,Greece,2009,45148,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EL,Greece,2010,33623,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EL,Greece,2011,21269,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EL,Greece,2012,16252,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EL,Greece,2013,18299,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EL,Greece,2014,22451,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EL,Greece,2015,37464,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EL,Greece,2016,44072,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EL,Greece,2017,29995,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EL,Greece,2018,35571,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EL,Greece,2019,42348,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EL,Greece,2020,19821,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EL,Greece,2021,47589,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EL,Greece,2022,58889,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EL,Greece,2023,70921,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EL,Greece,2024,87932,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,ES,Spain,2008,399827,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,ES,Spain,2009,290813,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,ES,Spain,2010,258309,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,ES,Spain,2011,282763,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,ES,Spain,2012,223318,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,ES,Spain,2013,196244,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,ES,Spain,2014,189481,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,ES,Spain,2015,192931,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,ES,Spain,2016,211533,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,ES,Spain,2017,231153,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,ES,Spain,2018,259600,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,ES,Spain,2019,320037,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,ES,Spain,2020,312355,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,ES,Spain,2021,371773,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,ES,Spain,2022,455553,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,ES,Spain,2023,548697,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,ES,Spain,2024,561640,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2013,1643350,True,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2014,1765064,True,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2015,1992551,True,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2016,2493983,True,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2017,2699491,True,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2018,2791528,True,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2019,2985017,True,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2020,2332051,True,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2021,3273875,True,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2022,3564926,True,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2023,3821562,True,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EU27_2020,European Union - 27 countries (from 2020),2024,3504650,True,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2013,2367598,True,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2014,2332870,True,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2015,2625568,True,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2016,3023859,True,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2017,3216491,True,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,EU28,European Union - 28 countries (2013-2020),2018,3242303,True,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,FR,France,2008,188723,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,FR,France,2009,200649,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,FR,France,2010,204321,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,FR,France,2011,199581,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,FR,France,2012,199500,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,FR,France,2013,214346,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,FR,France,2014,220599,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,FR,France,2015,228687,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,FR,France,2016,237218,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,FR,France,2017,254634,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,FR,France,2018,267426,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,FR,France,2019,287443,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,FR,France,2020,237134,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,FR,France,2021,287179,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,FR,France,2022,326948,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,FR,France,2023,338877,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,FR,France,2024,345587,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,HR,Croatia,2013,3320,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,HR,Croatia,2014,3334,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,HR,Croatia,2015,3433,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,HR,Croatia,2016,5315,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,HR,Croatia,2017,9733,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,HR,Croatia,2018,26307,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,HR,Croatia,2019,50455,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,HR,Croatia,2020,35138,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,HR,Croatia,2021,33580,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,HR,Croatia,2022,57330,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,HR,Croatia,2023,81347,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,HR,Croatia,2024,89809,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,IT,Italy,2008,550226,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,IT,Italy,2009,506833,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,IT,Italy,2010,589988,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,IT,Italy,2011,331083,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,IT,Italy,2012,246760,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,IT,Italy,2013,243954,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,IT,Italy,2014,204335,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,IT,Italy,2015,178884,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,IT,Italy,2016,222398,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,IT,Italy,2017,256593,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,IT,Italy,2018,238863,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,IT,Italy,2019,238714,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,IT,Italy,2020,143697,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,IT,Italy,2021,274095,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,IT,Italy,2022,337788,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,IT,Italy,2023,389542,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,IT,Italy,2024,346411,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2013,739,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2014,728,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2015,808,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2016,785,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2017,793,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2018,811,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2019,892,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2020,859,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2021,906,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2022,902,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2023,902,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,LI,Liechtenstein,2024,867,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,NL,Netherlands,2008,62589,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,NL,Netherlands,2009,56488,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,NL,Netherlands,2010,54473,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,NL,Netherlands,2011,55074,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,NL,Netherlands,2012,51162,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,NL,Netherlands,2013,64739,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,NL,Netherlands,2014,69569,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,NL,Netherlands,2015,86691,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,NL,Netherlands,2016,95753,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,NL,Netherlands,2017,97395,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,NL,Netherlands,2018,92068,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,NL,Netherlands,2019,102132,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,NL,Netherlands,2020,73511,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,NL,Netherlands,2021,105879,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,NL,Netherlands,2022,137200,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,NL,Netherlands,2023,131785,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,NL,Netherlands,2024,128378,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PL,Poland,2008,40896,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PL,Poland,2009,33427,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PL,Poland,2010,101574,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PL,Poland,2011,108036,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PL,Poland,2012,146619,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PL,Poland,2013,273886,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PL,Poland,2014,355521,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PL,Poland,2015,541583,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PL,Poland,2016,585969,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PL,Poland,2017,688912,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PL,Poland,2018,648169,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PL,Poland,2019,724416,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PL,Poland,2020,598047,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PL,Poland,2021,967345,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PL,Poland,2022,700264,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PL,Poland,2023,642789,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PL,Poland,2024,488846,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PT,Portugal,2008,63715,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PT,Portugal,2009,46324,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PT,Portugal,2010,37010,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PT,Portugal,2011,35172,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PT,Portugal,2012,32590,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PT,Portugal,2013,26593,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PT,Portugal,2014,29764,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PT,Portugal,2015,29021,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PT,Portugal,2016,25728,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PT,Portugal,2017,34073,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PT,Portugal,2018,61741,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PT,Portugal,2019,93475,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PT,Portugal,2020,84397,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PT,Portugal,2021,84805,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PT,Portugal,2022,108684,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PT,Portugal,2023,135907,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,PT,Portugal,2024,121872,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,RO,Romania,2008,19354,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,RO,Romania,2009,15380,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,RO,Romania,2010,10218,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,RO,Romania,2011,9740,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,RO,Romania,2012,10125,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,RO,Romania,2013,11160,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,RO,Romania,2014,10294,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,RO,Romania,2015,11289,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,RO,Romania,2016,11867,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,RO,Romania,2017,13264,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,RO,Romania,2018,16487,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,RO,Romania,2019,27103,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,RO,Romania,2020,17844,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,RO,Romania,2021,28250,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,RO,Romania,2022,42207,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,RO,Romania,2023,56920,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,RO,Romania,2024,57111,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,SE,Sweden,2008,84144,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,SE,Sweden,2009,91337,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,SE,Sweden,2010,79299,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,SE,Sweden,2011,75734,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,SE,Sweden,2012,90248,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,SE,Sweden,2013,99122,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,SE,Sweden,2014,107947,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,SE,Sweden,2015,110623,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,SE,Sweden,2016,146740,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,SE,Sweden,2017,128245,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,SE,Sweden,2018,123433,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,SE,Sweden,2019,107212,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,SE,Sweden,2020,74852,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,SE,Sweden,2021,83212,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,SE,Sweden,2022,84788,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,SE,Sweden,2023,76718,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,SE,Sweden,2024,66817,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2008,633170,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2009,671324,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2010,732208,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2011,701657,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2012,631940,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2013,724248,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2014,567806,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2015,633017,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2016,529876,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2017,517000,False,True
+TOTAL,Total,TOTAL,Total,TOTAL,Total,UK,United Kingdom,2018,450775,False,True

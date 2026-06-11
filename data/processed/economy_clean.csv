@@ -1,0 +1,126 @@
+country_name,country_code,indicator_name,indicator_code,indicator_short_name,year,value
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2000,3.9893207113692
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2001,5.10708868615592
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2002,2.99003115858884
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2003,3.06868730168473
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2004,4.60782278585291
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2005,3.17899814544722
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2006,3.55321913781567
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2007,5.86740351847628
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2008,9.40665320050491
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2009,10.9068201480963
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2010,9.01744998049889
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2011,8.08329285826067
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2012,7.49597513325321
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2013,9.80035898039468
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2014,8.64846635716115
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2015,8.62740636982337
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2016,8.71147225448456
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2017,7.71411336285186
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2018,7.83109146132114
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2019,7.70621465029911
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2020,7.01865154497786
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2021,6.75791457973236
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2022,7.57934042905775
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2023,6.90036950940795
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,fdi_percent_gdp,2024,6.32349466068578
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2000,3584570164.85195
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2001,4059064033.13379
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2002,4515003116.68036
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2003,5801712040.48463
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2004,7406645793.44038
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2005,8256658249.8128
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2006,9150528132.17633
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2007,11116937869.8568
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2008,13258506375.4518
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2009,12335540656.1006
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2010,12086545641.299
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2011,12973755874.5365
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2012,12246499747.9714
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2013,12796985886.1478
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2014,13296322588.1684
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2015,11470171826.9575
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2016,11988668784.6628
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2017,13258268435.6048
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2018,15379508329.7568
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2019,15585111614.0376
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2020,15241458744.5927
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2021,18031989573.0294
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2022,19017247013.8821
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2023,23491242727.4082
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,gdp_current_usd,2024,27046429296.6673
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2000,7.46285871776054
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2001,8.8637306604876
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2002,4.62839587394552
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2003,5.33326426009945
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2004,5.26626173860785
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2005,5.13082193056189
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2006,6.0189812403864
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2007,6.50009261158209
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2008,6.90706230713707
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2009,2.69075152362146
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2010,2.97315442681247
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2011,2.46351683915714
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2012,0.984129880204108
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2013,1.7072283175406
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2014,2.24022695382642
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2015,2.2277040745779
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2016,3.90893551362245
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2017,3.28317593330073
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2018,3.67141928098908
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2019,2.06257790176122
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2020,-3.31375636888916
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2021,8.96957619074095
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2022,4.8268006234359
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2023,4.01541716935742
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,gdp_growth_annual_percent,2024,4.04592845095348
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2000,1160.42047054038
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2001,1326.41652388077
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2002,1479.83884572006
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2003,1908.69900687608
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2004,2446.90949947798
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2005,2741.72136549578
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2006,3057.77257038113
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2007,3743.05529896187
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2008,4498.50486763601
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2009,4213.65007574693
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2010,4149.14469936847
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2011,4465.70914328865
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2012,4280.93316338873
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2013,4542.92903556739
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2014,4793.59751131525
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2015,4199.53912925398
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2016,4457.63412207495
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2017,5006.36012951959
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2018,5897.65452588774
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2019,6069.43903131027
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2020,6027.91350716348
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2021,7242.45513146613
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2022,7756.96188744253
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2023,9730.86921906893
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2024,11377.7757431099
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2000,16.6770344143812
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2001,17.2281095910701
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2002,16.2473863481927
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2003,15.3187296457995
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2004,15.670684644424
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2005,15.6201731609198
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2006,14.8567088699863
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2007,13.2052550548158
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2008,14.0708275191369
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2009,13.9247890307559
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2010,13.1267801276088
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2011,11.963216583924
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2012,11.5932923255515
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2013,10.0167971204892
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2014,10.6872215602712
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2015,11.2540904144104
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2016,10.8936962925845
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2017,9.89437224407924
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2018,9.48151283244669
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2019,9.45012315653745
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2020,9.61841800746962
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2021,9.52948598024897
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2022,9.17717025231113
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2023,8.66778018906039
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,remittances_percent_gdp,2024,8.40939322766939

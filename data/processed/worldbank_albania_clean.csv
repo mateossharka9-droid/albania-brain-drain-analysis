@@ -1,0 +1,441 @@
+Country Name,Country Code,Indicator Name,Indicator Code,year,value,indicator_short_name
+Albania,ALB,Net migration,SM.POP.NETM,1960,13734.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1960,1608800.0,population_total
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1961,3.12085537059054,population_growth
+Albania,ALB,Net migration,SM.POP.NETM,1961,829.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1961,1659800.0,population_total
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1962,3.05673050279088,population_growth
+Albania,ALB,Net migration,SM.POP.NETM,1962,2325.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1962,1711319.0,population_total
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1963,2.95374876199632,population_growth
+Albania,ALB,Net migration,SM.POP.NETM,1963,4091.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1963,1762621.0,population_total
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1964,2.88068642624326,population_growth
+Albania,ALB,Net migration,SM.POP.NETM,1964,6604.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1964,1814135.0,population_total
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1965,2.75402123804227,population_growth
+Albania,ALB,Net migration,SM.POP.NETM,1965,9617.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1965,1864791.0,population_total
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1966,2.63456387954101,population_growth
+Albania,ALB,Net migration,SM.POP.NETM,1966,11858.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1966,1914573.0,population_total
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1967,2.63019034549493,population_growth
+Albania,ALB,Net migration,SM.POP.NETM,1967,12252.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1967,1965598.0,population_total
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1968,2.84251071048949,population_growth
+Albania,ALB,Net migration,SM.POP.NETM,1968,10490.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1968,2022272.0,population_total
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1969,2.8960833877323,population_growth
+Albania,ALB,Net migration,SM.POP.NETM,1969,2665.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1969,2081695.0,population_total
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1970,2.55085117829323,population_growth
+Albania,ALB,Net migration,SM.POP.NETM,1970,92.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1970,2135479.0,population_total
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1971,2.4229720170788,population_growth
+Albania,ALB,Net migration,SM.POP.NETM,1971,-911.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1971,2187853.0,population_total
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1972,2.49497310670312,population_growth
+Albania,ALB,Net migration,SM.POP.NETM,1972,-1588.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1972,2243126.0,population_total
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1973,2.36255222384825,population_growth
+Albania,ALB,Net migration,SM.POP.NETM,1973,-1419.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1973,2296752.0,population_total
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1974,2.29721417566909,population_growth
+Albania,ALB,Net migration,SM.POP.NETM,1974,-1880.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1974,2350124.0,population_total
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1975,2.3011538096943,population_growth
+Albania,ALB,Net migration,SM.POP.NETM,1975,-2610.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1975,2404831.0,population_total
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1976,2.20823525497527,population_growth
+Albania,ALB,Net migration,SM.POP.NETM,1976,-1684.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1976,2458526.0,population_total
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1977,2.21325217885547,population_growth
+Albania,ALB,Net migration,SM.POP.NETM,1977,-1417.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1977,2513546.0,population_total
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1978,2.07574189532527,population_growth
+Albania,ALB,Net migration,SM.POP.NETM,1978,3230.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1978,2566266.0,population_total
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1979,1.98945701957156,population_growth
+Albania,ALB,Net migration,SM.POP.NETM,1979,-1871.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1979,2617832.0,population_total
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1980,0.0,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1980,2.04796386136191,population_growth
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1980,1578102105.26316,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1980,-601.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1980,2671997.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1980,590.607738430529,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1981,0.0,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1981,2.00297430640894,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1981,5.74563529228132,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1981,1808177156.17716,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1981,-374.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1981,2726056.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1981,663.2942082544,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1982,0.0,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1982,2.11327178253342,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1982,2.94859680118944,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1982,1861163170.16317,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1982,-225.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1982,2784278.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1982,668.454504242454,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1983,0.0,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1983,2.12088533357751,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1983,1.10493826195055,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1983,1881412587.41259,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1983,66.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1983,2843960.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1983,661.546782448624,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1984,0.0,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1984,2.10393661802013,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1984,-1.25159664405811,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1984,1857337995.338,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1984,64.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1984,2904429.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1984,639.484730161417,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1985,0.0,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1985,2.05599460887143,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1985,1.78064395924895,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1985,1897050116.55012,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1985,-183.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1985,2964762.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1985,639.865903755552,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1986,0.0,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1986,1.93322081083734,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1986,5.63724317852117,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1986,2097326250.0,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1986,-2309.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1986,3022635.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1986,693.873474633887,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1987,0.0,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1987,1.99703995612751,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1987,-0.787842654927232,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1987,2080796250.0,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1987,-3250.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1987,3083605.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1987,674.793383069492,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1988,0.0,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1988,1.88671052887888,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1988,-1.42003965566396,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1988,2051236250.0,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1988,658.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1988,3142336.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1988,652.774321396566,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1989,0.0,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1989,2.68786198874035,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1989,9.8365489718722,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1989,2253090000.0,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1989,-38835.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1989,3227943.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1989,697.995596576519,gdp_per_capita_current_usd
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1990,1.79908559333186,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1990,-9.57564016993408,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1990,2028553750.0,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1990,-60173.0,net_migration
+Albania,ALB,"Population, total",SP.POP.TOTL,1990,3286542.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1990,617.230435515505,gdp_per_capita_current_usd
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1991,-0.602809679480026,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1991,-28.0021416538074,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1991,1099559027.77778,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1991,-63689.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1991,10.304,unemployment_total_percent
+Albania,ALB,"Population, total",SP.POP.TOTL,1991,3266790.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1991,336.586994504629,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1992,3.06666159864896,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1992,-0.606434726201759,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1992,-7.18711090964234,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1992,652174990.837304,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1992,-66538.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1992,30.007,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,1992,23.2759615337456,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,1992,3247039.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1992,200.852219772323,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1993,4.89321210624299,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1993,-0.610165792730247,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1993,9.55941167111243,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1993,1185315468.46295,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1993,-68445.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1993,25.251,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,1993,28.0094210219427,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,1993,3227287.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1993,367.279225077581,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1994,2.81772379080922,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1994,-0.613880506929603,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1994,8.30286659699082,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1994,1880950864.41311,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1994,-70165.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1994,20.835,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,1994,16.3268486067455,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,1994,3207536.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1994,586.416135130865,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1995,2.40956158210409,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1995,-0.617703658436963,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1995,13.3223333268813,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1995,2905092798.61916,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1995,-69785.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1995,14.607,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,1995,14.7086523433297,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,1995,3187784.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1995,911.320465445326,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1996,2.78560468452093,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1996,-0.62151139901728,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1996,7.33632894771891,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1996,3234486232.04392,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1996,-68076.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1996,13.928,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,1996,17.0320712619599,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,1996,3168033.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1996,1020.97618050188,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1997,2.07092049927343,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1997,-0.625430096900055,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1997,-11.7115732812278,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1997,2293666029.99318,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1997,-66188.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1997,16.872,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,1997,13.0925773880382,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,1997,3148281.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1997,728.545523729675,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1998,1.73091617857629,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1998,-0.629334392525913,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1998,8.3100252038309,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1998,2600356999.20614,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1998,-66087.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1998,20.042,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,1998,19.3873379752822,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,1998,3128530.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1998,831.175344077295,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1999,1.25458994529204,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,1999,-0.63335227398725,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1999,12.2507281968475,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,1999,3283941510.49964,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,1999,-63093.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1999,20.835,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,1999,12.3997336340514,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,1999,3108778.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,1999,1056.34481153033,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2000,3.9893207113692,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2000,-0.637356833943492,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2000,7.46285871776054,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2000,3584570164.85195,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2000,-60531.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2000,19.023,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2000,16.6770344143812,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2000,3089027.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2000,1160.42047054038,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2001,5.10708868615592,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2001,-0.93847042771206,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2001,8.8637306604876,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2001,4059064033.13379,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2001,-48070.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2001,18.57,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2001,17.2281095910701,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2001,3060173.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2001,1326.41652388077,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2002,2.99003115858884,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2002,-0.299876697084691,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2002,4.62839587394552,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2002,4515003116.68036,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2002,-45178.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2002,17.891,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2002,16.2473863481927,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2002,3051010.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2002,1479.83884572006,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2003,3.06868730168473,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2003,-0.374149169291299,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2003,5.33326426009945,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2003,5801712040.48463,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2003,-48517.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2003,16.985,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2003,15.3187296457995,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2003,3039616.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2003,1908.69900687608,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2004,4.60782278585291,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2004,-0.417931377925999,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2004,5.26626173860785,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2004,7406645793.44038,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2004,-48654.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2004,16.306,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2004,15.670684644424,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2004,3026939.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2004,2446.90949947798,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2005,3.17899814544722,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2005,-0.511790116421897,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2005,5.13082193056189,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2005,8256658249.8128,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2005,-48893.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2005,15.966,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2005,15.6201731609198,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2005,3011487.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2005,2741.72136549578,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2006,3.55321913781567,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2006,-0.630911244851673,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2006,6.0189812403864,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2006,9150528132.17633,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2006,-48882.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2006,15.626,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2006,14.8567088699863,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2006,2992547.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2006,3057.77257038113,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2007,5.86740351847628,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2007,-0.75571875541991,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2007,6.50009261158209,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2007,11116937869.8568,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2007,-49770.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2007,15.966,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2007,13.2052550548158,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2007,2970017.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2007,3743.05529896187,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2008,9.40665320050491,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2008,-0.767342959142321,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2008,6.90706230713707,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2008,13258506375.4518,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2008,-50619.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2008,13.06,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2008,14.0708275191369,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2008,2947314.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2008,4498.50486763601,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2009,10.9068201480963,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2009,-0.673894046451936,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2009,2.69075152362146,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2009,12335540656.1006,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2009,-51657.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2009,13.674,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2009,13.9247890307559,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2009,2927519.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2009,4213.65007574693,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2010,9.01744998049889,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2010,-0.49646196338738,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2010,2.97315442681247,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2010,12086545641.299,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2010,-51907.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2010,14.086,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2010,13.1267801276088,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2010,2913021.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2010,4149.14469936847,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2011,8.08329285826067,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2011,-0.269017331764615,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2011,2.46351683915714,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2011,12973755874.5365,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2011,-18630.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2011,13.481,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2011,11.963216583924,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2011,2905195.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2011,4465.70914328865,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2012,7.49597513325321,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2012,-1.54313670532257,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2012,0.984129880204108,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2012,12246499747.9714,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2012,-19845.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2012,13.376,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2012,11.5932923255515,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2012,2860708.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2012,4280.93316338873,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2013,9.80035898039468,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2013,-1.54314471365633,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2013,1.7072283175406,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2013,12796985886.1478,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2013,-20681.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2013,15.866,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2013,10.0167971204892,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2013,2816902.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2013,4542.92903556739,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2014,8.64846635716115,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2014,-1.54313753739282,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2014,2.24022695382642,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2014,13296322588.1684,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2014,-21706.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,18.055,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2014,10.6872215602712,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2014,2773767.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,4793.59751131525,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2015,8.62740636982337,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2015,-1.54312006878448,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2015,2.2277040745779,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2015,11470171826.9575,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2015,-20500.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,17.193,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2015,11.2540904144104,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2015,2731293.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,4199.53912925398,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2016,8.71147225448456,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2016,-1.54313470861992,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2016,3.90893551362245,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2016,11988668784.6628,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2016,-9347.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,15.418,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2016,10.8936962925845,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2016,2689469.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,4457.63412207495,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2017,7.71411336285186,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2017,-1.54315156766944,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2017,3.28317593330073,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2017,13258268435.6048,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2017,-14901.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,13.616,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2017,9.89437224407924,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2017,2648285.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,5006.36012951959,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2018,7.83109146132114,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2018,-1.54309991591532,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2018,3.67141928098908,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2018,15379508329.7568,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2018,-15032.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,12.304,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2018,9.48151283244669,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2018,2607733.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,5897.65452588774,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2019,7.70621465029911,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2019,-1.54313709096794,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2019,2.06257790176122,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2019,15585111614.0376,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2019,-23094.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,11.466,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2019,9.45012315653745,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2019,2567801.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,6069.43903131027,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2020,7.01865154497786,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2020,-1.54315589345436,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2020,-3.31375636888916,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2020,15241458744.5927,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2020,-16680.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,11.639,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2020,9.61841800746962,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2020,2528480.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,6027.91350716348,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2021,6.75791457973236,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2021,-1.54312080996395,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2021,8.96957619074095,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2021,18031989573.0294,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2021,-32848.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,11.474,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2021,9.52948598024897,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2021,2489762.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,7242.45513146613,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2022,7.57934042905775,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2022,-1.54315667695786,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2022,4.8268006234359,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2022,19017247013.8821,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2022,-16426.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,10.785,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2022,9.17717025231113,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2022,2451636.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,7756.96188744253,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2023,6.90036950940795,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2023,-1.54310811387613,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2023,4.01541716935742,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2023,23491242727.4082,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2023,-25357.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,10.669,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2023,8.66778018906039,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2023,2414095.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,9730.86921906893,gdp_per_capita_current_usd
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2024,6.32349466068578,fdi_percent_gdp
+Albania,ALB,Population growth (annual %),SP.POP.GROW,2024,-1.54314393524594,population_growth
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2024,4.04592845095348,gdp_growth_annual_percent
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,2024,27046429296.6673,gdp_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2024,-24472.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2024,10.689,unemployment_total_percent
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,2024,8.40939322766939,remittances_percent_gdp
+Albania,ALB,"Population, total",SP.POP.TOTL,2024,2377128.0,population_total
+Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2024,11377.7757431099,gdp_per_capita_current_usd
+Albania,ALB,Net migration,SM.POP.NETM,2025,-24230.0,net_migration
+Albania,ALB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2025,10.926,unemployment_total_percent
